@@ -1,1 +1,488 @@
-const _0x2c187e=_0x3563;(function(_0x469b35,_0x1cd5e3){const _0x1eb575=_0x3563,_0x341183=_0x469b35();while(!![]){try{const _0x2b6ff4=-parseInt(_0x1eb575(0x23d))/0x1+parseInt(_0x1eb575(0x217))/0x2*(parseInt(_0x1eb575(0x1f3))/0x3)+parseInt(_0x1eb575(0x1eb))/0x4+-parseInt(_0x1eb575(0x213))/0x5+parseInt(_0x1eb575(0x246))/0x6*(-parseInt(_0x1eb575(0x200))/0x7)+-parseInt(_0x1eb575(0x211))/0x8*(-parseInt(_0x1eb575(0x22f))/0x9)+-parseInt(_0x1eb575(0x24b))/0xa;if(_0x2b6ff4===_0x1cd5e3)break;else _0x341183['push'](_0x341183['shift']());}catch(_0x3d3e26){_0x341183['push'](_0x341183['shift']());}}}(_0x18ef,0x57822));const _0x1a8caf=_0x15f6;(function(_0x545d3d,_0x4c0fb4){const _0x38a06f=_0x3563,_0x2f2105=_0x15f6,_0x5701d9=_0x545d3d();while(!![]){try{const _0x1f10e3=-parseInt(_0x2f2105(0x20c))/0x1+parseInt(_0x2f2105(0x1b5))/0x2*(-parseInt(_0x2f2105(0x1c9))/0x3)+-parseInt(_0x2f2105(0x1dc))/0x4+-parseInt(_0x2f2105(0x1b3))/0x5*(parseInt(_0x2f2105(0x1f4))/0x6)+-parseInt(_0x2f2105(0x1d7))/0x7*(parseInt(_0x2f2105(0x20e))/0x8)+parseInt(_0x2f2105(0x1b6))/0x9+parseInt(_0x2f2105(0x1c0))/0xa;if(_0x1f10e3===_0x4c0fb4)break;else _0x5701d9[_0x38a06f(0x20b)](_0x5701d9[_0x38a06f(0x20f)]());}catch(_0x3703cb){_0x5701d9['push'](_0x5701d9['shift']());}}}(_0x5a39,0xb8c28));function _0x3cec(){const _0x529ace=_0x3563,_0x2c853e=_0x15f6,_0x4dc9fc=['loginBtn',_0x2c853e(0x1ca),_0x2c853e(0x1d9),_0x2c853e(0x1bb),_0x2c853e(0x20d),_0x2c853e(0x1fd),_0x2c853e(0x1d6),_0x2c853e(0x1f3),_0x2c853e(0x1b0),_0x2c853e(0x1b7),_0x2c853e(0x1ae),_0x529ace(0x254),_0x2c853e(0x1d1),_0x2c853e(0x1ed),_0x529ace(0x1fc),_0x2c853e(0x1c3),_0x2c853e(0x1e9),_0x2c853e(0x1a6),_0x2c853e(0x1b2),'1110EkDOFR','8dUNFHq',_0x2c853e(0x20a),_0x2c853e(0x203),_0x2c853e(0x1b4),_0x2c853e(0x1bf),_0x2c853e(0x1e1),_0x2c853e(0x1c8),_0x2c853e(0x1aa),_0x2c853e(0x1c4),_0x2c853e(0x1af),_0x2c853e(0x1bc),_0x2c853e(0x1b1),_0x529ace(0x250),_0x2c853e(0x208),_0x2c853e(0x1fe),_0x2c853e(0x220),_0x2c853e(0x1ec),_0x2c853e(0x1d3),_0x2c853e(0x1d0),_0x2c853e(0x1e4),_0x2c853e(0x1e2),_0x2c853e(0x211),_0x2c853e(0x1ab),_0x2c853e(0x1c7),_0x2c853e(0x1ff),_0x2c853e(0x1cc),_0x529ace(0x220),_0x529ace(0x240),_0x2c853e(0x1f1),_0x2c853e(0x1d5),_0x2c853e(0x1f7),_0x2c853e(0x1e3),_0x2c853e(0x219),_0x2c853e(0x1db),_0x2c853e(0x1cf),_0x2c853e(0x209),'value',_0x2c853e(0x207),_0x2c853e(0x1fb),_0x2c853e(0x1e0),_0x529ace(0x223),_0x2c853e(0x1f8),_0x2c853e(0x1be),_0x2c853e(0x1c5),_0x2c853e(0x20b),_0x2c853e(0x1e7),_0x2c853e(0x1e8),_0x2c853e(0x1d8),_0x2c853e(0x1fa),_0x2c853e(0x1c1),_0x2c853e(0x210),'--tx',_0x529ace(0x1ef),_0x529ace(0x208),_0x529ace(0x239),_0x2c853e(0x1cb),_0x2c853e(0x200),_0x2c853e(0x1c2),_0x2c853e(0x1ea),_0x529ace(0x203),'imagefeed-45d0e.firebaseapp.com',_0x529ace(0x22c),_0x2c853e(0x21d),'statusIndicator',_0x2c853e(0x216),_0x2c853e(0x217),_0x2c853e(0x201),_0x2c853e(0x215),_0x2c853e(0x212),_0x2c853e(0x1c6),_0x2c853e(0x1e6),_0x2c853e(0x218),_0x529ace(0x215),'Transfer\x20error:',_0x529ace(0x245),_0x2c853e(0x1e5),_0x2c853e(0x1a7),_0x2c853e(0x21b),_0x2c853e(0x20f),_0x2c853e(0x205),_0x2c853e(0x21a),_0x2c853e(0x21e),_0x2c853e(0x1dd),_0x2c853e(0x204),_0x2c853e(0x214),_0x529ace(0x21d),_0x2c853e(0x1d2),_0x2c853e(0x1ac),_0x2c853e(0x1f9)];return _0x3cec=function(){return _0x4dc9fc;},_0x3cec();}const _0x58e579=_0x24ba;(function(_0xbd1661,_0x53330e){const _0x483436=_0x15f6,_0x405dc4=_0x24ba,_0x4f9a72=_0xbd1661();while(!![]){try{const _0x3172fb=-parseInt(_0x405dc4(0x194))/0x1*(parseInt(_0x405dc4(0x16e))/0x2)+parseInt(_0x405dc4(0x190))/0x3*(parseInt(_0x405dc4(0x188))/0x4)+parseInt(_0x405dc4(0x155))/0x5+-parseInt(_0x405dc4(0x193))/0x6*(-parseInt(_0x405dc4(0x18f))/0x7)+parseInt(_0x405dc4(0x15f))/0x8*(-parseInt(_0x405dc4(0x141))/0x9)+-parseInt(_0x405dc4(0x191))/0xa*(parseInt(_0x405dc4(0x13f))/0xb)+parseInt(_0x405dc4(0x17c))/0xc;if(_0x3172fb===_0x53330e)break;else _0x4f9a72[_0x483436(0x1a5)](_0x4f9a72[_0x483436(0x1ee)]());}catch(_0x23456b){_0x4f9a72[_0x483436(0x1a5)](_0x4f9a72[_0x483436(0x1ee)]());}}}(_0x3cec,0xb2782));import{initializeApp}from'https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js';function _0x18ef(){const _0x3564fa=['7824NIsfuH','4975223OStcQl','AIzaSyDhYta0w2K_DQwa0SlBDA3FnfRNqog-ejE','memberCode','37091910yhYUap','Mining/Users/','getElementById','loginContainer','nameError','display','20px','animation','toISOString','7GOMMqr','style','appContainer','remove','sin','value','CV\x20Transfer','50%','none','background','stringify','push','termsError','clientY','5416276gIGgYO','shift','firebase-coin-count','232fVNyNk','loginForm','4350ZORZmU','add','position','height','506EsHRcD','transform','slideUser','setItem','clickRipple\x200.6s\x20ease-out','floor','5059032uhRZgE','imagefeed-45d0e.appspot.com','phoneError','72Cmmujf','width','setProperty','transferBtn','username','79156tDLqTN','https://imagefeed-45d0e-default-rtdb.firebaseio.com','redeemModal','className','Copying\x20is\x20disabled\x20on\x20this\x20page!','logoutBtn','Welcome\x20','borderRadius','abs','.info/connected','158085ewiXZe','128BPZTqp','session-coins','now','getBoundingClientRect','noticeContent','codeError','notice','mining-coins','name','pointerEvents','Keep\x20mining\x20for\x20more\x20coins!','createElement','70565fwSQgx','429061NOyrkw','7754hwSWQf','coins','trim','886161237670','textContent','Login\x20failed.\x20Please\x20try\x20again.','Transferring...','sessionCoins','741228XzEwfv','length','3uUvcdq','preventDefault','4679928SHpHXP','6737760tmNxec','Mining/Transfers/','imagefeed-45d0e','444IaktDl','Transfer\x20failed.\x20Please\x20try\x20again.','parentNode','parse','Session\x20restore\x20error:','rgba(255,\x20255,\x20255,\x200.8)','checked','classList','7126TAgcPn','div','error','phone','Success!\x20','left','getItem','removeItem','87728uhfmzW','disabled','1213240Shcamv','loginSpinner','1665880iBmbUf','top','acceptTerms','824427wUrCNI','block','absolute','val','load'];_0x18ef=function(){return _0x3564fa;};return _0x18ef();}import{getDatabase,ref,set,get,update,onValue,onDisconnect,serverTimestamp}from'https://www.gstatic.com/firebasejs/10.11.0/firebase-database.js';const firebaseConfig={'apiKey':_0x58e579(0x19c),'authDomain':_0x58e579(0x163),'databaseURL':_0x58e579(0x185),'projectId':_0x58e579(0x16a),'storageBucket':_0x2c187e(0x21e),'messagingSenderId':_0x58e579(0x132),'appId':_0x58e579(0x187)},app=initializeApp(firebaseConfig),db=getDatabase(app),statusIndicator=document[_0x58e579(0x177)](_0x58e579(0x166)),connectedRef=ref(db,_0x2c187e(0x22e));onValue(connectedRef,_0x22a388=>{const _0x3d53dd=_0x15f6,_0x332a6a=_0x58e579;_0x22a388[_0x332a6a(0x198)]()===!![]?statusIndicator[_0x332a6a(0x17e)][_0x332a6a(0x162)](_0x332a6a(0x143)):statusIndicator[_0x3d53dd(0x1ac)][_0x332a6a(0x144)](_0x332a6a(0x143));});const loginContainer=document[_0x58e579(0x177)](_0x1a8caf(0x21f)),appContainer=document[_0x58e579(0x177)](_0x58e579(0x195)),loginForm=document[_0x58e579(0x177)](_0x58e579(0x167)),loginBtn=document[_0x58e579(0x177)](_0x58e579(0x180)),loginSpinner=document['getElementById'](_0x58e579(0x154)),nameInput=document[_0x1a8caf(0x21a)](_0x1a8caf(0x1cb)),phoneInput=document[_0x1a8caf(0x21a)](_0x58e579(0x18c)),memberCodeInput=document[_0x58e579(0x177)](_0x1a8caf(0x1bd)),acceptTerms=document[_0x58e579(0x177)](_0x58e579(0x134)),nameError=document[_0x1a8caf(0x21a)](_0x58e579(0x156)),phoneError=document[_0x58e579(0x177)](_0x58e579(0x145)),codeError=document[_0x58e579(0x177)](_0x58e579(0x186)),termsError=document[_0x58e579(0x177)](_0x58e579(0x168)),usernameEl=document[_0x58e579(0x177)](_0x58e579(0x140)),firebaseCoinCount=document[_0x1a8caf(0x21a)](_0x1a8caf(0x1eb)),sessionCoinsEl=document[_0x1a8caf(0x21a)](_0x58e579(0x13b)),miningStatsEl=document[_0x58e579(0x177)](_0x58e579(0x181)),miningCircle=document[_0x58e579(0x177)](_0x1a8caf(0x213)),transferBtn=document[_0x58e579(0x177)](_0x58e579(0x14f)),noticeContent=document[_0x58e579(0x177)](_0x1a8caf(0x1f6)),logoutBtn=document[_0x1a8caf(0x21a)](_0x1a8caf(0x1ba));function _0x24ba(_0x51ff30,_0x3eb37c){const _0x36f3e9=_0x3cec();return _0x24ba=function(_0x4d6904,_0x13afe4){_0x4d6904=_0x4d6904-0x130;let _0x236e8b=_0x36f3e9[_0x4d6904];return _0x236e8b;},_0x24ba(_0x51ff30,_0x3eb37c);}function _0x15f6(_0x7e8512,_0x403a6a){const _0x332824=_0x5a39();return _0x15f6=function(_0x4dd27d,_0x5bb64d){_0x4dd27d=_0x4dd27d-0x1a5;let _0x4f410e=_0x332824[_0x4dd27d];return _0x4f410e;},_0x15f6(_0x7e8512,_0x403a6a);}let currentUser=null,sessionCoins=0x0,firebaseCoins=0x0,canMine=!![];function _0x3563(_0x45fa8b,_0xe3adc4){const _0x18ef87=_0x18ef();return _0x3563=function(_0x356371,_0x5ccbcc){_0x356371=_0x356371-0x1e6;let _0xe09dc2=_0x18ef87[_0x356371];return _0xe09dc2;},_0x3563(_0x45fa8b,_0xe3adc4);}window[_0x1a8caf(0x211)](_0x58e579(0x16c),async()=>{const _0x256618=_0x2c187e,_0x46e2cd=_0x1a8caf,_0x5e3ad4=_0x58e579,_0x382616=localStorage[_0x46e2cd(0x1df)](_0x5e3ad4(0x189));if(_0x382616){currentUser=JSON[_0x46e2cd(0x1f5)](_0x382616);try{const _0x24848d=ref(db,_0x5e3ad4(0x13e)+currentUser[_0x46e2cd(0x1d1)]),_0x1d2631=await get(_0x24848d);if(_0x1d2631[_0x46e2cd(0x1dd)]()){firebaseCoins=_0x1d2631[_0x5e3ad4(0x198)]()[_0x5e3ad4(0x175)]||0x0,usernameEl[_0x46e2cd(0x1e3)]=currentUser[_0x5e3ad4(0x15e)],firebaseCoinCount[_0x5e3ad4(0x146)]=firebaseCoins,onValue(_0x24848d,_0x53bb2b=>{const _0x3929ef=_0x46e2cd,_0x1afde5=_0x5e3ad4;if(_0x53bb2b[_0x1afde5(0x179)]()){const _0x58d336=_0x53bb2b[_0x1afde5(0x198)]();firebaseCoins=_0x58d336[_0x1afde5(0x175)]||0x0,firebaseCoinCount[_0x1afde5(0x146)]=firebaseCoins,noticeContent[_0x1afde5(0x146)]=_0x58d336[_0x3929ef(0x1bb)]||_0x1afde5(0x16b)+currentUser[_0x1afde5(0x15e)]+'!';}}),onValue(_0x24848d,_0x582d16=>{const _0x575697=_0x3563,_0x4768ee=_0x46e2cd,_0xeb7469=_0x5e3ad4;_0x582d16[_0xeb7469(0x179)]()&&_0x582d16[_0x4768ee(0x1bf)]()[_0xeb7469(0x165)]===!![]&&(alert(_0x4768ee(0x21c)),localStorage[_0x4768ee(0x1fa)](_0x4768ee(0x1b7)),localStorage[_0xeb7469(0x157)](_0xeb7469(0x171)),currentUser=null,sessionCoins=0x0,sessionCoinsEl[_0xeb7469(0x146)]='0',firebaseCoinCount[_0xeb7469(0x146)]='0',usernameEl[_0xeb7469(0x146)]=_0xeb7469(0x152),miningStatsEl[_0xeb7469(0x146)]='Click\x20the\x20circle\x20to\x20start\x20mining\x20coins!',loginContainer[_0xeb7469(0x13d)][_0x4768ee(0x1ce)]=_0x575697(0x1ef),appContainer[_0xeb7469(0x13d)][_0xeb7469(0x18e)]=_0xeb7469(0x15c),nameInput[_0xeb7469(0x14b)]='',phoneInput[_0xeb7469(0x14b)]='',memberCodeInput[_0x4768ee(0x1a9)]='',acceptTerms[_0xeb7469(0x18b)]=![],update(_0x24848d,{'logout':![]}));});const _0x45d8bc=localStorage[_0x256618(0x25c)](_0x5e3ad4(0x171));sessionCoins=_0x45d8bc?parseInt(_0x45d8bc):0x0,sessionCoinsEl[_0x5e3ad4(0x146)]=sessionCoins,showApp();}else localStorage[_0x5e3ad4(0x157)](_0x5e3ad4(0x189)),loginContainer[_0x5e3ad4(0x13d)][_0x46e2cd(0x1ce)]=_0x5e3ad4(0x15b),appContainer[_0x5e3ad4(0x13d)][_0x5e3ad4(0x18e)]=_0x46e2cd(0x1a8);}catch(_0x13a50b){console[_0x5e3ad4(0x169)](_0x5e3ad4(0x17b),_0x13a50b),localStorage[_0x5e3ad4(0x157)](_0x46e2cd(0x1b7)),loginContainer[_0x5e3ad4(0x13d)][_0x46e2cd(0x1ce)]=_0x5e3ad4(0x15b),appContainer[_0x5e3ad4(0x13d)][_0x5e3ad4(0x18e)]=_0x5e3ad4(0x15c);}}}),loginBtn[_0x58e579(0x13c)](_0x58e579(0x14e),async()=>{const _0x1d7be9=_0x2c187e,_0x57f5ab=_0x1a8caf,_0x1169f9=_0x58e579;nameError[_0x1169f9(0x13d)][_0x57f5ab(0x1ce)]=_0x1169f9(0x15c),phoneError[_0x1169f9(0x13d)][_0x1169f9(0x18e)]=_0x1169f9(0x15c),codeError[_0x1169f9(0x13d)][_0x1169f9(0x18e)]=_0x1169f9(0x15c),termsError['style'][_0x1169f9(0x18e)]=_0x57f5ab(0x1a8);const _0x3c7d17=nameInput[_0x1169f9(0x14b)][_0x1169f9(0x142)](),_0x3771db=phoneInput[_0x1169f9(0x14b)][_0x57f5ab(0x202)](),_0x2f9e23=memberCodeInput[_0x1169f9(0x14b)][_0x1169f9(0x142)](),_0x562549=acceptTerms[_0x1169f9(0x18b)];let _0x11068d=!![];!_0x3c7d17&&(nameError[_0x57f5ab(0x1ab)][_0x1169f9(0x18e)]=_0x1169f9(0x15b),_0x11068d=![]),(!_0x3771db||_0x3771db[_0x1169f9(0x192)]<0xa)&&(phoneError[_0x1169f9(0x13d)][_0x1169f9(0x18e)]=_0x57f5ab(0x206),_0x11068d=![]),!_0x2f9e23&&(codeError[_0x57f5ab(0x1ab)][_0x1169f9(0x18e)]=_0x1169f9(0x15b),_0x11068d=![]),!_0x562549&&(termsError[_0x1169f9(0x13d)][_0x1169f9(0x18e)]='block',_0x11068d=![]);if(!_0x11068d)return;loginBtn[_0x1169f9(0x13d)][_0x1d7be9(0x1fc)]=_0x1169f9(0x15c),loginSpinner[_0x1169f9(0x13d)][_0x1169f9(0x18e)]=_0x1169f9(0x15b);try{const _0x238ecf={'name':_0x3c7d17,'phone':_0x3771db,'memberCode':_0x2f9e23,'coins':0x0,'lastLogin':new Date()[_0x57f5ab(0x20d)](),'notice':_0x1169f9(0x16b)+_0x3c7d17+'!','termsAccepted':!![],'termsAcceptedDate':new Date()[_0x1169f9(0x184)]()},_0x247368=ref(db,_0x1169f9(0x13e)+_0x3771db),_0x48dbeb=await get(_0x247368);_0x48dbeb[_0x1169f9(0x179)]()?(await update(_0x247368,{'lastLogin':new Date()[_0x1169f9(0x184)](),'termsAccepted':!![],'termsAcceptedDate':new Date()[_0x1169f9(0x184)]()}),firebaseCoins=_0x48dbeb[_0x57f5ab(0x1bf)]()[_0x1169f9(0x175)]||0x0,_0x48dbeb[_0x1169f9(0x198)]()[_0x1169f9(0x183)]?noticeContent[_0x1169f9(0x146)]=_0x48dbeb[_0x1169f9(0x198)]()[_0x1169f9(0x183)]:noticeContent[_0x1169f9(0x146)]=_0x57f5ab(0x212)+_0x3c7d17+'!'):(await set(_0x247368,_0x238ecf),firebaseCoins=0x0,noticeContent[_0x1d7be9(0x242)]=_0x1169f9(0x16b)+_0x3c7d17+'!'),currentUser={'name':_0x3c7d17,'phone':_0x3771db,'memberCode':_0x2f9e23},localStorage[_0x1169f9(0x197)](_0x1169f9(0x189),JSON[_0x1169f9(0x18d)](currentUser)),usernameEl[_0x1169f9(0x146)]=_0x3c7d17,firebaseCoinCount[_0x57f5ab(0x1e3)]=firebaseCoins,onValue(_0x247368,_0x231d50=>{const _0xf4e7d4=_0x57f5ab,_0x256564=_0x1169f9;_0x231d50[_0x256564(0x179)]()&&(firebaseCoins=_0x231d50[_0xf4e7d4(0x1bf)]()[_0xf4e7d4(0x20f)]||0x0,firebaseCoinCount[_0xf4e7d4(0x1e3)]=firebaseCoins,_0x231d50[_0xf4e7d4(0x1bf)]()[_0x256564(0x183)]&&(noticeContent[_0xf4e7d4(0x1e3)]=_0x231d50[_0x256564(0x198)]()[_0x256564(0x183)]));}),showApp();}catch(_0x188268){console[_0x1169f9(0x169)]('Login\x20error:',_0x188268),miningStatsEl[_0x1169f9(0x146)]=_0x1169f9(0x14c);}finally{loginBtn[_0x1169f9(0x13d)][_0x1169f9(0x18e)]=_0x57f5ab(0x206),loginSpinner[_0x1169f9(0x13d)][_0x1169f9(0x18e)]=_0x1169f9(0x15c);}});function _0x5a39(){const _0x1161f9=_0x2c187e,_0x384a98=['translate(-50%,\x20-50%)',_0x1161f9(0x20e),_0x1161f9(0x241),_0x1161f9(0x247),_0x1161f9(0x23c),_0x1161f9(0x21a),'2YwFCEK',_0x1161f9(0x24a),_0x1161f9(0x219),'copy','remove',_0x1161f9(0x22a),_0x1161f9(0x236),_0x1161f9(0x21c),_0x1161f9(0x1f6),_0x1161f9(0x233),_0x1161f9(0x1f1),_0x1161f9(0x1f7),_0x1161f9(0x22d),_0x1161f9(0x23a),_0x1161f9(0x256),_0x1161f9(0x1f5),'Guest\x20Miner',_0x1161f9(0x1f2),_0x1161f9(0x1f8),'\x20coins\x20mined!\x20Session:\x20',_0x1161f9(0x1ee),'miningStats',_0x1161f9(0x238),_0x1161f9(0x224),_0x1161f9(0x244),_0x1161f9(0x1fc),'removeChild',_0x1161f9(0x1e8),_0x1161f9(0x259),_0x1161f9(0x221),'cos',_0x1161f9(0x254),_0x1161f9(0x214),_0x1161f9(0x235),_0x1161f9(0x225),_0x1161f9(0x1fb),_0x1161f9(0x206),'--ty','\x20coins\x20transferred\x20to\x20your\x20account.','2537208bwkwzi','exists',_0x1161f9(0x1fe),_0x1161f9(0x25c),'click',_0x1161f9(0x257),_0x1161f9(0x231),'textContent',_0x1161f9(0x216),_0x1161f9(0x253),_0x1161f9(0x1f0),_0x1161f9(0x1ea),_0x1161f9(0x1e9),_0x1161f9(0x248),'clientX',_0x1161f9(0x210),_0x1161f9(0x1ec),_0x1161f9(0x20a),_0x1161f9(0x20f),_0x1161f9(0x24c),_0x1161f9(0x232),'offline',_0x1161f9(0x228),'1:886161237670:web:105822aeb49c11340d7667',_0x1161f9(0x24e),_0x1161f9(0x251),_0x1161f9(0x234),_0x1161f9(0x21f),_0x1161f9(0x20d),'appendChild',_0x1161f9(0x1e6),_0x1161f9(0x207),'\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20clickRipple\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%)\x20scale(1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%)\x20scale(10);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20',_0x1161f9(0x226),_0x1161f9(0x222),_0x1161f9(0x1f4),_0x1161f9(0x1e7),_0x1161f9(0x258),_0x1161f9(0x240),_0x1161f9(0x1fd),_0x1161f9(0x218),'head',_0x1161f9(0x1ef),_0x1161f9(0x243),_0x1161f9(0x1ed),_0x1161f9(0x21b),_0x1161f9(0x202),'createElement','1338006DPPyZS',_0x1161f9(0x1ff),_0x1161f9(0x230),_0x1161f9(0x23f),_0x1161f9(0x249),'addEventListener',_0x1161f9(0x22b),'miningCircle',_0x1161f9(0x252),_0x1161f9(0x24d),_0x1161f9(0x212),_0x1161f9(0x20c),_0x1161f9(0x23e),_0x1161f9(0x24f),_0x1161f9(0x1f9),_0x1161f9(0x209),'⚠️\x20An\x20update\x20arrived,\x20Please\x20Relogin.','logout','Click\x20the\x20circle\x20to\x20start\x20mining\x20coins!',_0x1161f9(0x1fa),'contextmenu',_0x1161f9(0x20b),'30efYRWA',_0x1161f9(0x25a),'none',_0x1161f9(0x205),'random',_0x1161f9(0x201),_0x1161f9(0x255),_0x1161f9(0x229),_0x1161f9(0x25b)];return _0x5a39=function(){return _0x384a98;},_0x5a39();}function showApp(){const _0xf5d375=_0x1a8caf,_0x417dcd=_0x58e579;loginContainer[_0x417dcd(0x13d)][_0x417dcd(0x18e)]=_0xf5d375(0x1a8),appContainer[_0x417dcd(0x13d)][_0x417dcd(0x18e)]=_0x417dcd(0x15b),miningCircle[_0x417dcd(0x13c)](_0x417dcd(0x14e),mineCoins),transferBtn[_0xf5d375(0x211)](_0x417dcd(0x14e),transferCoins);}function mineCoins(_0x524d59){const _0x5d600e=_0x1a8caf,_0x4389aa=_0x58e579;if(!currentUser||!canMine)return;canMine=![],setTimeout(()=>{canMine=!![];},0x12c),createClickEffect(_0x524d59),createCoinAnimation(_0x524d59);const _0x5a3aec=0x1+Math[_0x4389aa(0x131)](Math[_0x4389aa(0x19b)]()*0x2);sessionCoins+=_0x5a3aec,sessionCoinsEl[_0x5d600e(0x1e3)]=sessionCoins,miningStatsEl[_0x4389aa(0x146)]='+'+_0x5a3aec+_0x4389aa(0x19a)+sessionCoins,localStorage[_0x4389aa(0x197)](_0x4389aa(0x171),sessionCoins),setTimeout(()=>{const _0x20bcdd=_0x4389aa;miningStatsEl[_0x20bcdd(0x146)]=_0x20bcdd(0x160);},0xbb8);}async function transferCoins(){const _0x206695=_0x1a8caf,_0x37c6c4=_0x58e579;if(!currentUser||sessionCoins<=0x0)return;try{transferBtn[_0x206695(0x1e3)]=_0x206695(0x1cd),transferBtn[_0x37c6c4(0x139)]=!![];const _0x50f111=ref(db,_0x37c6c4(0x13e)+currentUser['phone']),_0xf1ec08=await get(_0x50f111);let _0x5dbe81=0x0;_0xf1ec08[_0x37c6c4(0x179)]()&&(_0x5dbe81=_0xf1ec08[_0x37c6c4(0x198)]()[_0x37c6c4(0x175)]||0x0);const _0x41ecb5=_0x5dbe81+sessionCoins;await update(_0x50f111,{'coins':_0x41ecb5,'lastTransfer':serverTimestamp()}),firebaseCoins=_0x41ecb5,firebaseCoinCount[_0x37c6c4(0x146)]=_0x41ecb5,sessionCoins=0x0,sessionCoinsEl[_0x37c6c4(0x146)]=sessionCoins,localStorage[_0x37c6c4(0x197)](_0x37c6c4(0x171),sessionCoins),miningStatsEl[_0x37c6c4(0x146)]=_0x37c6c4(0x173)+sessionCoins+_0x37c6c4(0x148);const _0x3f40dd=ref(db,_0x206695(0x1ef)+currentUser[_0x37c6c4(0x18c)]+'/'+Date[_0x206695(0x1f0)]());await set(_0x3f40dd,{'amount':sessionCoins,'timestamp':serverTimestamp()});}catch(_0x52cf22){console[_0x37c6c4(0x169)](_0x37c6c4(0x170),_0x52cf22),miningStatsEl[_0x37c6c4(0x146)]=_0x37c6c4(0x147);}finally{transferBtn[_0x206695(0x1e3)]=_0x37c6c4(0x182),transferBtn[_0x37c6c4(0x139)]=![],setTimeout(()=>{const _0x538528=_0x3563,_0x3149dd=_0x37c6c4;miningStatsEl[_0x3149dd(0x146)]=_0x538528(0x23a);},0x1388);}}function createCoinAnimation(_0x194747){const _0x5c124d=_0x2c187e,_0xa6287e=_0x1a8caf,_0x554484=_0x58e579,_0x399d72=miningCircle[_0x554484(0x151)](),_0x13ea9d=_0x194747[_0x554484(0x161)]-_0x399d72[_0x554484(0x18a)],_0x56b968=_0x194747[_0x554484(0x150)]-_0x399d72[_0x554484(0x137)];for(let _0x2031f7=0x0;_0x2031f7<0x5;_0x2031f7++){const _0x45565e=document[_0x5c124d(0x23b)](_0x554484(0x199));_0x45565e[_0xa6287e(0x1f2)]=_0x5c124d(0x237),_0x45565e[_0x554484(0x146)]='+1',_0x45565e[_0x554484(0x13d)][_0x554484(0x18a)]=_0x13ea9d+'px',_0x45565e[_0x554484(0x13d)][_0x554484(0x137)]=_0x56b968+'px';const _0x5eb0d2=Math[_0x554484(0x19b)]()*Math['PI']*0x2,_0x12712e=0x64+Math[_0x554484(0x19b)]()*0x32,_0x7de7d5=Math[_0x554484(0x138)](_0x5eb0d2)*_0x12712e,_0x46b209=-Math[_0x554484(0x158)](Math[_0x5c124d(0x204)](_0x5eb0d2)*_0x12712e);_0x45565e[_0x554484(0x13d)][_0x554484(0x135)](_0x554484(0x15a),_0x7de7d5+'px'),_0x45565e[_0x554484(0x13d)][_0x554484(0x135)](_0xa6287e(0x1da),_0x46b209+'px'),miningCircle[_0x554484(0x17f)](_0x45565e),setTimeout(()=>{const _0x4d0450=_0x554484;if(_0x45565e[_0x4d0450(0x133)])_0x45565e[_0x4d0450(0x133)][_0x4d0450(0x149)](_0x45565e);},0x5dc);}}function createClickEffect(_0x2bd19d){const _0x4161ed=_0x1a8caf,_0x19c7b1=_0x58e579,_0x505198=miningCircle[_0x19c7b1(0x151)](),_0x4e9883=_0x2bd19d[_0x19c7b1(0x161)]-_0x505198[_0x19c7b1(0x18a)],_0x40ceae=_0x2bd19d[_0x19c7b1(0x150)]-_0x505198[_0x19c7b1(0x137)],_0x3f172a=document[_0x4161ed(0x20b)](_0x4161ed(0x1e1));_0x3f172a[_0x4161ed(0x1ab)][_0x19c7b1(0x16f)]=_0x19c7b1(0x16d),_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x17d)]=_0x4161ed(0x203),_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x13a)]=_0x19c7b1(0x196),_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x174)]=_0x19c7b1(0x172),_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x164)]=_0x19c7b1(0x14d),_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x15d)]=_0x19c7b1(0x15c),_0x3f172a[_0x4161ed(0x1ab)][_0x19c7b1(0x18a)]=_0x4e9883+'px',_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x137)]=_0x40ceae+'px',_0x3f172a[_0x19c7b1(0x13d)][_0x19c7b1(0x17a)]=_0x19c7b1(0x130),_0x3f172a[_0x4161ed(0x1ab)][_0x4161ed(0x1de)]=_0x19c7b1(0x14a),miningCircle[_0x4161ed(0x1f9)](_0x3f172a),setTimeout(()=>{const _0x597a14=_0x4161ed;_0x3f172a[_0x597a14(0x1b9)]();},0x258);}function showRedeemInfo(){const _0x45c933=_0x2c187e,_0x220b9b=_0x1a8caf,_0x2c340a=_0x58e579;document[_0x2c340a(0x177)](_0x45c933(0x227))[_0x220b9b(0x1ab)][_0x2c340a(0x18e)]=_0x2c340a(0x15b);}logoutBtn[_0x58e579(0x13c)](_0x58e579(0x14e),()=>{const _0x83f972=_0x2c187e,_0x406559=_0x1a8caf,_0x166fd0=_0x58e579;localStorage[_0x83f972(0x1e6)](_0x166fd0(0x189)),localStorage[_0x166fd0(0x157)](_0x166fd0(0x171)),currentUser=null,sessionCoins=0x0,sessionCoinsEl[_0x166fd0(0x146)]='0',firebaseCoinCount[_0x406559(0x1e3)]='0',usernameEl[_0x166fd0(0x146)]=_0x166fd0(0x152),miningStatsEl[_0x166fd0(0x146)]=_0x166fd0(0x178),loginContainer[_0x166fd0(0x13d)][_0x166fd0(0x18e)]=_0x166fd0(0x15b),appContainer[_0x166fd0(0x13d)][_0x406559(0x1ce)]=_0x166fd0(0x15c),nameInput[_0x83f972(0x205)]='',phoneInput[_0x166fd0(0x14b)]='',memberCodeInput[_0x406559(0x1a9)]='',acceptTerms[_0x406559(0x1d4)]=![];}),document[_0x58e579(0x13c)](_0x1a8caf(0x1b8),function(_0x57648e){const _0xf2c766=_0x1a8caf,_0x16868=_0x58e579;_0x57648e[_0x16868(0x159)](),alert(_0xf2c766(0x1ad));}),document[_0x1a8caf(0x211)](_0x58e579(0x136),function(_0x1a57bc){const _0x456892=_0x58e579;_0x1a57bc[_0x456892(0x159)]();});const style=document[_0x58e579(0x153)](_0x58e579(0x13d));style[_0x58e579(0x146)]=_0x1a8caf(0x1fc),document[_0x58e579(0x176)][_0x1a8caf(0x1f9)](style);
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
+    import {
+      getDatabase, ref, set, get, update, onValue, onDisconnect, serverTimestamp
+    } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-database.js";
+
+    // Firebase config
+    const firebaseConfig = {
+      apiKey: "AIzaSyDhYta0w2K_DQwa0SlBDA3FnfRNqog-ejE",
+      authDomain: "imagefeed-45d0e.firebaseapp.com",
+      databaseURL: "https://imagefeed-45d0e-default-rtdb.firebaseio.com",
+      projectId: "imagefeed-45d0e",
+      storageBucket: "imagefeed-45d0e.appspot.com",
+      messagingSenderId: "886161237670",
+      appId: "1:886161237670:web:105822aeb49c11340d7667"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getDatabase(app);
+    const statusIndicator = document.getElementById('statusIndicator');
+
+    // Connection status
+    const connectedRef = ref(db, ".info/connected");
+    onValue(connectedRef, (snap) => {
+      if (snap.val() === true) {
+        statusIndicator.classList.remove('offline');
+      } else {
+        statusIndicator.classList.add('offline');
+      }
+    });
+
+    // DOM Elements
+    const loginContainer = document.getElementById('loginContainer');
+    const appContainer = document.getElementById('appContainer');
+    const loginForm = document.getElementById('loginForm');
+    const loginBtn = document.getElementById('loginBtn');
+    const loginSpinner = document.getElementById('loginSpinner');
+    const nameInput = document.getElementById('name');
+    const phoneInput = document.getElementById('phone');
+    const memberCodeInput = document.getElementById('memberCode');
+    const acceptTerms = document.getElementById('acceptTerms');
+    const nameError = document.getElementById('nameError');
+    const phoneError = document.getElementById('phoneError');
+    const codeError = document.getElementById('codeError');
+    const termsError = document.getElementById('termsError');
+    const usernameEl = document.getElementById('username');
+    const firebaseCoinCount = document.getElementById('firebase-coin-count');
+    const sessionCoinsEl = document.getElementById('session-coins');
+    const miningStatsEl = document.getElementById('miningStats');
+    const miningCircle = document.getElementById('miningCircle');
+    const transferBtn = document.getElementById('transferBtn');
+    const noticeContent = document.getElementById('noticeContent');
+    const logoutBtn = document.getElementById('logoutBtn');
+
+    // User data
+    let currentUser = null;
+    let sessionCoins = 0;
+    let firebaseCoins = 0;
+    let canMine = true; // Flag to control mining cooldown
+
+    // Initialize app
+    window.addEventListener('load', async () => {
+      const savedUser = localStorage.getItem('slideUser');
+      if (savedUser) {
+        currentUser = JSON.parse(savedUser);
+
+        try {
+          const userRef = ref(db, `Mining/Users/${currentUser.phone}`);
+          const snapshot = await get(userRef);
+
+          if (snapshot.exists()) {
+            // Ban check for existing session
+            if (snapshot.val().status === "banned") {
+              alert("🚫 Your account is suspended. You cannot mine coins.");
+              localStorage.removeItem('slideUser');
+              loginContainer.style.display = 'block';
+              appContainer.style.display = 'none';
+              return;
+            }
+
+            firebaseCoins = snapshot.val().coins || 0;
+            usernameEl.textContent = currentUser.name;
+            firebaseCoinCount.textContent = firebaseCoins;
+
+            // Set up realtime updates for coins & notice
+            onValue(userRef, (snap) => {
+              if (snap.exists()) {
+                const data = snap.val();
+                firebaseCoins = data.coins || 0;
+                firebaseCoinCount.textContent = firebaseCoins;
+                noticeContent.textContent = data.notice || `Welcome ${currentUser.name}!`;
+              }
+            });
+
+            // Auto-logout if admin sets `logout = true`
+            onValue(userRef, (snap) => {
+              if (snap.exists() && snap.val().logout === true) {
+                alert("⚠️ An update arrived, Please Relogin.");
+
+                // Clear data
+                localStorage.removeItem('slideUser');
+                localStorage.removeItem('sessionCoins');
+                currentUser = null;
+                sessionCoins = 0;
+
+                // Reset UI
+                sessionCoinsEl.textContent = '0';
+                firebaseCoinCount.textContent = '0';
+                usernameEl.textContent = 'Guest Miner';
+                miningStatsEl.textContent = 'Click the circle to start mining coins!';
+                loginContainer.style.display = 'block';
+                appContainer.style.display = 'none';
+
+                // Clear input
+                nameInput.value = '';
+                phoneInput.value = '';
+                memberCodeInput.value = '';
+                acceptTerms.checked = false;
+
+                // Reset logout flag to allow re-login
+                update(userRef, { logout: false });
+              }
+            });
+
+            // Load saved session coins
+            const savedSessionCoins = localStorage.getItem('sessionCoins');
+            sessionCoins = savedSessionCoins ? parseInt(savedSessionCoins) : 0;
+            sessionCoinsEl.textContent = sessionCoins;
+
+            showApp();
+          } else {
+            localStorage.removeItem('slideUser');
+            loginContainer.style.display = 'block';
+            appContainer.style.display = 'none';
+          }
+        } catch (error) {
+          console.error('Session restore error:', error);
+          localStorage.removeItem('slideUser');
+          loginContainer.style.display = 'block';
+          appContainer.style.display = 'none';
+        }
+      }
+    });
+
+    // Login functionality
+    loginBtn.addEventListener('click', async () => {
+      // Reset errors
+      nameError.style.display = 'none';
+      phoneError.style.display = 'none';
+      codeError.style.display = 'none';
+      termsError.style.display = 'none';
+      
+      // Get input values
+      const name = nameInput.value.trim();
+      const phone = phoneInput.value.trim();
+      const memberCode = memberCodeInput.value.trim();
+      const termsAccepted = acceptTerms.checked;
+      
+      // Validate inputs
+      let isValid = true;
+      if (!name) {
+        nameError.style.display = 'block';
+        isValid = false;
+      }
+      if (!phone || phone.length < 10) {
+        phoneError.style.display = 'block';
+        isValid = false;
+      }
+      if (!memberCode) {
+        codeError.style.display = 'block';
+        isValid = false;
+      }
+      if (!termsAccepted) {
+        termsError.style.display = 'block';
+        isValid = false;
+      }
+      
+      if (!isValid) return;
+      
+      // Show loading spinner
+      loginBtn.style.display = 'none';
+      loginSpinner.style.display = 'block';
+      
+      try {
+        // Create user object
+        const user = {
+          name,
+          phone,
+          memberCode,
+          coins: 0,
+          lastLogin: new Date().toISOString(),
+          notice: `Welcome ${name}!`, // Default notice
+          termsAccepted: true,
+          termsAcceptedDate: new Date().toISOString()
+        };
+        
+        // Save user to Firebase
+        const userRef = ref(db, `Mining/Users/${phone}`);
+        
+        // Check if user exists
+        const snapshot = await get(userRef);
+        if (snapshot.exists()) {
+          // Ban check for login
+          if (snapshot.val().status === "banned") {
+            alert("🚫 Your account is suspended. You cannot mine coins.");
+            loginBtn.style.display = 'block';
+            loginSpinner.style.display = 'none';
+            return;
+          }
+
+          // Existing user - update last login and terms acceptance
+          await update(userRef, {
+            lastLogin: new Date().toISOString(),
+            termsAccepted: true,
+            termsAcceptedDate: new Date().toISOString()
+          });
+          // Get existing coins
+          firebaseCoins = snapshot.val().coins || 0;
+          
+          // Use existing notice if available, otherwise set default
+          if (snapshot.val().notice) {
+            noticeContent.textContent = snapshot.val().notice;
+          } else {
+            noticeContent.textContent = `Welcome ${name}!`;
+          }
+        } else {
+          // New user - create record with default notice
+          await set(userRef, user);
+          firebaseCoins = 0;
+          noticeContent.textContent = `Welcome ${name}!`;
+        }
+        
+        // Set current user
+        currentUser = {
+          name,
+          phone,
+          memberCode
+        };
+        
+        // Save to localStorage
+        localStorage.setItem('slideUser', JSON.stringify(currentUser));
+        
+        // Update UI
+        usernameEl.textContent = name;
+        firebaseCoinCount.textContent = firebaseCoins;
+        
+        // Set up realtime listener for coin updates
+        onValue(userRef, (snap) => {
+          if (snap.exists()) {
+            firebaseCoins = snap.val().coins || 0;
+            firebaseCoinCount.textContent = firebaseCoins;
+            
+            // Update notice if it exists in user data
+            if (snap.val().notice) {
+              noticeContent.textContent = snap.val().notice;
+            }
+          }
+        });
+        
+        // Show app
+        showApp();
+        
+      } catch (error) {
+        console.error('Login error:', error);
+        miningStatsEl.textContent = 'Login failed. Please try again.';
+      } finally {
+        // Hide spinner, show button
+        loginBtn.style.display = 'block';
+        loginSpinner.style.display = 'none';
+      }
+    });
+
+    // Show the app interface
+    function showApp() {
+      loginContainer.style.display = 'none';
+      appContainer.style.display = 'block';
+      
+      // Set up mining event
+      miningCircle.addEventListener("click", mineCoins);
+      
+      // Set up transfer event
+      transferBtn.addEventListener("click", transferCoins);
+    }
+
+    // Mining functionality with 0.3-second cooldown
+    function mineCoins(e) {
+      if (!currentUser || !canMine) return;
+      
+      // Ban check for mining
+      const userRef = ref(db, `Mining/Users/${currentUser.phone}`);
+      get(userRef).then(snapshot => {
+        if (snapshot.exists() && snapshot.val().status === "banned") {
+          alert("🚫 You are banned from mining.");
+          return;
+        }
+
+        // Set cooldown
+        canMine = false;
+        setTimeout(() => {
+          canMine = true;
+        }, 300); // 0.3 second cooldown
+        
+        // Create visual effects
+        createClickEffect(e);
+        createCoinAnimation(e);
+        
+        // Calculate new coins
+        const coinsEarned = 1 + Math.floor(Math.random() * 2); // 1-2 coins per tap
+        sessionCoins += coinsEarned;
+        
+        // Update UI
+        sessionCoinsEl.textContent = sessionCoins;
+        miningStatsEl.textContent = `+${coinsEarned} coins mined! Session: ${sessionCoins}`;
+        
+        // Save to localStorage
+        localStorage.setItem('sessionCoins', sessionCoins);
+        
+        // Reset message after 3 seconds
+        setTimeout(() => {
+          miningStatsEl.textContent = "Keep mining for more coins!";
+        }, 3000);
+      });
+    }
+
+    // Transfer coins to Firebase
+    async function transferCoins() {
+      if (!currentUser || sessionCoins <= 0) return;
+      
+      try {
+        // Show loading
+        transferBtn.textContent = "Transferring...";
+        transferBtn.disabled = true;
+        
+        // Get current user reference
+        const userRef = ref(db, `Mining/Users/${currentUser.phone}`);
+        
+        // Get current coin balance from Firebase
+        const snapshot = await get(userRef);
+        let currentCoins = 0;
+        
+        if (snapshot.exists()) {
+          currentCoins = snapshot.val().coins || 0;
+        }
+        
+        // Calculate new balance
+        const newCoins = currentCoins + sessionCoins;
+        
+        // Update Firebase
+        await update(userRef, {
+          coins: newCoins,
+          lastTransfer: serverTimestamp()
+        });
+        
+        // Update UI
+        firebaseCoins = newCoins;
+        firebaseCoinCount.textContent = newCoins;
+        
+        // Reset session coins
+        sessionCoins = 0;
+        sessionCoinsEl.textContent = sessionCoins;
+        localStorage.setItem('sessionCoins', sessionCoins);
+        
+        // Show success message
+        miningStatsEl.textContent = `Success! ${sessionCoins} coins transferred to your account.`;
+        
+        // Create transfer history
+        const transferRef = ref(db, `Mining/Transfers/${currentUser.phone}/${Date.now()}`);
+        await set(transferRef, {
+          amount: sessionCoins,
+          timestamp: serverTimestamp()
+        });
+        
+      } catch (error) {
+        console.error('Transfer error:', error);
+        miningStatsEl.textContent = "Transfer failed. Please try again.";
+      } finally {
+        // Reset button
+        transferBtn.textContent = "CV Transfer";
+        transferBtn.disabled = false;
+        
+        // Reset message after 5 seconds
+        setTimeout(() => {
+          miningStatsEl.textContent = "Keep mining for more coins!";
+        }, 5000);
+      }
+    }
+
+    // Create coin animation
+    function createCoinAnimation(e) {
+      const rect = miningCircle.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      
+      for (let i = 0; i < 5; i++) {
+        const coin = document.createElement("div");
+        coin.className = "mining-coins";
+        coin.textContent = "+1";
+        coin.style.left = x + "px";
+        coin.style.top = y + "px";
+        
+        // Randomize animation direction
+        const angle = Math.random() * Math.PI * 2;
+        const distance = 100 + Math.random() * 50;
+        const tx = Math.cos(angle) * distance;
+        const ty = -Math.abs(Math.sin(angle) * distance);
+        
+        coin.style.setProperty('--tx', `${tx}px`);
+        coin.style.setProperty('--ty', `${ty}px`);
+        
+        miningCircle.appendChild(coin);
+        
+        // Remove coin element after animation completes
+        setTimeout(() => {
+          if (coin.parentNode) coin.parentNode.removeChild(coin);
+        }, 1500);
+      }
+    }
+
+    // Create click effect
+    function createClickEffect(e) {
+      const rect = miningCircle.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      
+      const effect = document.createElement("div");
+      effect.style.position = "absolute";
+      effect.style.width = "20px";
+      effect.style.height = "20px";
+      effect.style.background = "rgba(255, 255, 255, 0.8)";
+      effect.style.borderRadius = "50%";
+      effect.style.pointerEvents = "none";
+      effect.style.left = x + "px";
+      effect.style.top = y + "px";
+      effect.style.transform = "translate(-50%, -50%)";
+      effect.style.animation = "clickRipple 0.6s ease-out";
+      
+      miningCircle.appendChild(effect);
+      
+      // Remove effect element after animation completes
+      setTimeout(() => {
+        effect.remove();
+      }, 600);
+    }
+
+    // Show redeem info
+    function showRedeemInfo() {
+      document.getElementById('redeemModal').style.display = 'block';
+    }
+
+    // Logout functionality
+    logoutBtn.addEventListener('click', () => {
+      // Clear user data
+      localStorage.removeItem('slideUser');
+      localStorage.removeItem('sessionCoins');
+      currentUser = null;
+      sessionCoins = 0;
+      
+      // Reset UI
+      sessionCoinsEl.textContent = '0';
+      firebaseCoinCount.textContent = '0';
+      usernameEl.textContent = 'Guest Miner';
+      miningStatsEl.textContent = 'Click the circle to start mining coins!';
+      
+      // Show login, hide app
+      loginContainer.style.display = 'block';
+      appContainer.style.display = 'none';
+      
+      // Reset form
+      nameInput.value = '';
+      phoneInput.value = '';
+      memberCodeInput.value = '';
+      acceptTerms.checked = false;
+    });
+
+    // Add CSS for click ripple animation
+    const style = document.createElement('style');
+    style.textContent = `
+      @keyframes clickRipple {
+        0% {
+          transform: translate(-50%, -50%) scale(1);
+          opacity: 1;
+        }
+        100% {
+          transform: translate(-50%, -50%) scale(10);
+          opacity: 0;
+        }
+      }
+    `;
+    document.head.appendChild(style);
